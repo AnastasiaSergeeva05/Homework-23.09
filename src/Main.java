@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-
+//
         System.out.println("Домашнее задание 1.1");
         int sum = 0;
         int contributtion = 15000;
@@ -100,4 +100,4 @@ public class Main {
 
     }
 }
-
+//
